@@ -1,0 +1,3 @@
+Hello, World!
+
+This is a test mail sent by a code of Python
