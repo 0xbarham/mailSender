@@ -1,2 +1,2 @@
-### mailSender
-## This is a simple SMTP Email sender using Python
+## mailSender
+# This is a simple SMTP Email sender using Python
